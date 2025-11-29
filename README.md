@@ -28,3 +28,5 @@ All notebooks are developed and tested on **Google Colab** using a T4 GPU.
 
 ## Notes
 * The results, plots, and metrics are pre-executed and visible in the notebooks.
+
+Github link: https://github.com/eraykocabozdogan/Ceng543_Take_Home_Midterm.git
