@@ -1,0 +1,5 @@
+Model,Accuracy,Macro-F1,Training Loss (Final),Validation Loss (Final)
+BiGRU + GloVe,0.8234,0.8234,0.2575,0.4195
+BiLSTM + GloVe,0.8394,0.8387,0.2299,0.3909
+BiGRU + DistilBERT,0.8842,0.884,0.1621,0.3316
+BiLSTM + DistilBERT,0.8853,0.8853,0.1686,0.3195

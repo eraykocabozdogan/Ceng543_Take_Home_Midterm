@@ -1,0 +1,23 @@
+name: ceng543_midterm
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - jupyter
+  - pip
+  - pip:
+    - torch
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - spacy
+    - nltk
+    - datasets
+    - transformers
+    - torchmetrics
+    - rank_bm25
+    - portalocker
+    - bert_score
